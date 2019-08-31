@@ -1,0 +1,14 @@
+dir(objetivo) - Lista as funções para cada tipo de objeto ex: dir('string'), vai mostrar as funções para string, tipo lower(), upper(), etc.
+dir([]) - Mostra a lista de funções de uma lista
+
+print('sring'.__doc__) - Mostra documentação da classe
+print('sring'.upper.__doc__) - Mostra oq faz a função upper
+
+Tupla é imutável
+
+Dicionário similar a um json:
+pessoa = { "nome":"Teste", "sobrenome": "Testando" }
+
+Concatenar:
+f'{variavel1, variavel2} 
+OBs: Isso acima da versão > 3.6

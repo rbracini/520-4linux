@@ -12,3 +12,6 @@ pessoa = { "nome":"Teste", "sobrenome": "Testando" }
 Concatenar:
 f'{variavel1, variavel2} 
 OBs: Isso acima da versão > 3.6
+
+Python ordena pelo valor numero na tabela ASCII
+Ex: ord('a') ou ord('A')

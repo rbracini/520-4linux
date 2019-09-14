@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 cont = 1
-with open('./aula 2/arquivoenum.txt', 'r+') as arquivo:
+with open('./aula2/arquivoenum.txt', 'r+') as arquivo:
     linhas = arquivo.readlines()
     arquivo.seek(0)
     for x in linhas:

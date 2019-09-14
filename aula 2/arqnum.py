@@ -7,7 +7,7 @@ with open('./aula 2/arquivoenum.txt', 'r+') as arquivo:
     for x in linhas:
         #Ignora linha com espaço
         if not str(x).isspace():
-            arq = "{} - {}".format (str(cont),x)
+            arq = "{} - {}".format(str(cont),x)
             arquivo.write(arq)
             cont += 1
         else:

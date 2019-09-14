@@ -15,3 +15,13 @@ OBs: Isso acima da versão > 3.6
 
 Python ordena pelo valor numero na tabela ASCII
 Ex: ord('a') ou ord('A')
+
+Extensões para o VS Code:
+Code Runner
+Dracula Official
+MagicPython
+Python
+vccode-icons
+
+Site para treinamento de exercícios:
+https://www.urionlinejudge.com.br/judge/login?redirect=%2Fen%2Flogin

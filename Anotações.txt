@@ -30,3 +30,8 @@ https://www.urionlinejudge.com.br/judge/login?redirect=%2Fen%2Flogin
 
 Criando um virtualenv para cada projeto
 Comando dentro da pasta do seu projeto: python3 -m virtualenv venv
+
+Para ativar
+. venv/bin/activate
+Para desativar
+deactivate
